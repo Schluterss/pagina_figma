@@ -34,8 +34,8 @@ align-items: center;
 .sociais{
 display: flex;
 justify-content: flex-end;
-width: 25%;
-padding-right: 48px;
+width: 10%;
+padding-right: 15px;
 }
 .banner1{
 display: flex;
