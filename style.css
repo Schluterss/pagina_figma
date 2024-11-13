@@ -20,13 +20,13 @@ align-items: center;
 justify-content: center;
 }
 .cabecalho-imagem{
-width: 10%;
+width: 20%;
 display: flex;
 justify-content: flex-start;
 align-items: center;
 }
 .titulo_site{
-    width: 10%;
+    width: 25%;
     display: flex;
     justify-content: center;
     align-items: center;
